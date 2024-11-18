@@ -7,3 +7,7 @@
 header {background-color: #f1f1f1;}
 main{background-color: #c1c1c1;}
 footer{background-color: #a1a1a1;}
+
+.carousel-inner img {
+    width: 100%;
+}
